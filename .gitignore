@@ -1,0 +1,28 @@
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+credentials.json
+secrets.json
+*.secret
+
+# Private participant information and consent forms
+docs/phase-3/consent/*
+!docs/phase-3/consent/README.md
+docs/phase-3/participant-data/*
+!docs/phase-3/participant-data/README.md
+
+# Temporary and local files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+~$*
+Thumbs.db
+Desktop.ini
+.DS_Store

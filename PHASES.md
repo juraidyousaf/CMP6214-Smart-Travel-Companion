@@ -14,7 +14,7 @@ The earlier nine-milestone prompt is replaced by this plan. Research already log
 | Stage | Target | Status | Done when |
 |---|---|---|---|
 | 1. Research and written sections | 18–19 October 2026 | DRAFTED. Three sections are approved for the working files. Source verification is still pending, so this stage is not closed | You have drafted the introduction, market research, and competitor analysis, and each factual sentence has a source you re-read |
-| 2. Personas, jobs, journey maps | 20–21 October 2026 | NOT STARTED | Three personas, three jobs, three maps, written by you. One accessibility persona. One premium journey |
+| 2. Personas, jobs, journey maps | 20–21 October 2026 | SAVED in the working files on 18 October 2026. Three personas, three jobs, three journeys. Journey 1 includes the hypothetical premium scenario. All three maps have a hypothetical application layer. Source verification and the Word checklist are still open, so this is not a Moodle submission | Three personas, three jobs, three maps, written by you. One accessibility persona. One premium journey |
 | 3. MoSCoW and HTA | 22 October 2026 | NOT STARTED | Your MoSCoW table and three HTA diagrams |
 | 4. References, appendices, DOCX, PDF | 23 October 2026 | NOT STARTED | Signed checklist exported to PDF and checked. Not uploaded until you say so |
 

@@ -2,7 +2,7 @@
 
 **Official heading:** Jobs-to-be-done  
 **Template instruction:** Describe the jobs-to-be-done.  
-**Status: NOT STARTED.** A job needs a situation you can point to in a source or in your observation log. Candidate situations are listed in the synthesis and are not jobs until you write them.
+**Status: JTBD-1, JTBD-2, and JTBD-3 approved for the working files.** A job needs a situation you can point to in a source or in your observation log. Persona 1 is `jtbd-1-on-site-attraction-planner.md`. Persona 2 is `jtbd-2-smartphone-navigation-while-walking.md`. Persona 3 is `jtbd-3-accessible-pedestrian-wayfinding.md`.
 
 The brief requires at least one job-to-be-done for each user persona (Theil, 2026).
 
@@ -24,15 +24,15 @@ You will see jobs-to-be-done attributed in textbooks and articles to Christensen
 
 | Field | Your entry |
 |---|---|
-| Job ID | JTBD-A1 |
-| Status | INCOMPLETE |
-| Source IDs | |
+| Job ID | JTBD-1 |
+| Status | Approved for the working file, 18 October 2026. Source verification pending. Full statement: `jtbd-1-on-site-attraction-planner.md` |
+| Source IDs | S015, S016. Verified by student: no |
 
-When:
+When: I have arrived with attractions already planned.
 
-I want to:
+I want to: look at that plan again and consider places near a main attraction.
 
-So I can:
+So I can: select or adjust which attractions to visit, using the earlier plan as the starting point. This outcome is your interpretation of S015 and S016, not a quotation.
 
 **Feature hypotheses this might later inform (not yet a requirement):**
 
@@ -42,15 +42,15 @@ So I can:
 
 | Field | Your entry |
 |---|---|
-| Job ID | JTBD-B1 |
-| Status | INCOMPLETE |
-| Source IDs | |
+| Job ID | JTBD-2 |
+| Status | Approved for the working file, 18 October 2026. Source verification pending. Full statement: `jtbd-2-smartphone-navigation-while-walking.md` |
+| Source IDs | S004, S006, S017. Verified by student: no |
 
-When:
+When: I am walking an unfamiliar route while using a phone for guidance.
 
-I want to:
+I want to: follow that guidance and still notice the surroundings.
 
-So I can:
+So I can: take the next turn without that being the only thing I attend to. This statement is your interpretation, not a quotation. S017 is limited to gait.
 
 **Feature hypotheses this might later inform:**
 
@@ -60,15 +60,15 @@ So I can:
 
 | Field | Your entry |
 |---|---|
-| Job ID | JTBD-C1 |
-| Status | BLOCKED |
-| Source IDs | |
+| Job ID | JTBD-3 |
+| Status | Approved for the working file, 18 October 2026. Source verification pending. Full statement: `jtbd-3-accessible-pedestrian-wayfinding.md` |
+| Source IDs | S007. Verified by student: no |
 
-When:
+When: I am wayfinding with a smart device, before I move and while I am moving.
 
-I want to:
+I want to: adjust the speed and amount of guidance, choose among audio, visual, and haptic output, preview the route before I move, and receive live route updates while I move.
 
-So I can:
+So I can: access wayfinding information in a manner suited to my needs throughout the journey. This outcome is your design interpretation. S007 does not state it. The statement is not a participant quotation. Choosing among output modes does not mean every person uses all three.
 
 **Accessibility consideration inside the job:**
 

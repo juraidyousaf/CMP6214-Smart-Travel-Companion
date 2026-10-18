@@ -2,7 +2,7 @@
 
 **Official heading:** User Journey Maps  
 **Template instruction:** Include screenshots of your user journey maps.  
-**Status: NOT STARTED.** One of the three maps must include premium membership purchase, and the set must cover the smart-glasses feature, as the brief requires. Those steps are coursework requirements where a source does not mention them. Do not invent emotions or stages.
+**Status: Journeys 1, 2, and 3 are wording approved for the working files. Source verification is pending.** Journey 1 carries a hypothetical premium membership purchase and premium smart-glasses access for Persona 1. That block is not a research finding. Journeys 2 and 3 each have a hypothetical Smart Travel Companion layer and do not carry a purchase or glasses. Whether the brief requires purchase and glasses on the same map is still an unsent question. Do not invent emotions or stages. Journey 1 is `journey-1-on-site-attraction-planner.md`. Journey 2 is `journey-2-smartphone-navigation-while-walking.md`. Journey 3 is `journey-3-accessible-pedestrian-wayfinding.md`.
 
 ## Requirements from the brief
 
@@ -25,12 +25,12 @@ Common workshop stages are: situation, action, touchpoint, thought, difficulty, 
 
 | Field | Your entry |
 |---|---|
-| Status | INCOMPLETE |
-| Persona | |
-| Job IDs | |
-| Includes premium purchase? | |
-| Includes smart glasses? | |
-| Source IDs | |
+| Status | Approved for the working file, 18 October 2026. Source verification pending. Full map: `journey-1-on-site-attraction-planner.md` |
+| Persona | On-Site Attraction Planner. Composite based on secondary research – not a real participant |
+| Job IDs | JTBD-1 |
+| Includes premium purchase? | Yes. Hypothetical coursework scenario on this map, not an S015 or S016 finding |
+| Includes smart glasses? | Yes, in that same hypothetical scenario. Not an observed preference. The lecturer question on whether purchase and glasses must share a map is still unsent |
+| Source IDs | S015, S016. Verified by student: no |
 
 | Stage | Situation | Action | Touchpoint | Thought or evidence | Difficulty | Opportunity (HYPOTHESIS until prioritised) |
 |---|---|---|---|---|---|---|
@@ -46,12 +46,12 @@ Common workshop stages are: situation, action, touchpoint, thought, difficulty, 
 
 | Field | Your entry |
 |---|---|
-| Status | INCOMPLETE |
-| Persona | |
-| Job IDs | |
-| Includes premium purchase? | |
-| Includes smart glasses? | |
-| Source IDs | |
+| Status | Approved for the working file, 18 October 2026. Source verification pending. Full map: `journey-2-smartphone-navigation-while-walking.md` |
+| Persona | Smartphone Navigation While Walking. Composite based on secondary research – not a real participant |
+| Job IDs | JTBD-2 |
+| Includes premium purchase? | No |
+| Includes smart glasses? | No |
+| Source IDs | S004, S006, S017. Verified by student: no |
 
 | Stage | Situation | Action | Touchpoint | Thought or evidence | Difficulty | Opportunity |
 |---|---|---|---|---|---|---|
@@ -67,12 +67,12 @@ Common workshop stages are: situation, action, touchpoint, thought, difficulty, 
 
 | Field | Your entry |
 |---|---|
-| Status | BLOCKED |
-| Persona | |
-| Job IDs | |
-| Includes premium purchase? | |
-| Includes smart glasses? | |
-| Source IDs | |
+| Status | Wording approved – source verification pending. Confirmed 18 October 2026. Full map: `journey-3-accessible-pedestrian-wayfinding.md`. Screenshot layout: `journey-3-accessible-pedestrian-wayfinding.html` |
+| Persona | Accessible Pedestrian Wayfinding. Composite based on secondary research – not a real participant |
+| Job IDs | JTBD-3 |
+| Includes premium purchase? | No |
+| Includes smart glasses? | No |
+| Source IDs | S007. Verified by student: no |
 
 | Stage | Situation | Action | Touchpoint | Thought or evidence | Difficulty | Opportunity |
 |---|---|---|---|---|---|---|

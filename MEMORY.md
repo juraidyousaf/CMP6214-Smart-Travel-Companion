@@ -1,28 +1,28 @@
 # Memory
 
-Living roadmap. Last updated: 18 October 2026, after the three Stage 1 drafts were approved for the working files. Git author settings were not changed. Nothing new was committed.
+Living roadmap. Last updated: 18 October 2026, after the Journey 2 and Journey 3 application layers were saved. Source verification is still pending. Git author settings were not changed. Nothing new was committed.
 
 ## Completed work
 
 - Read the assessment brief and the Week 5 template. Built the workspace. Pushed the initial commit as Juraid Yousaf only.
 - On your confirmation, switched the Week 5 method to secondary research. No lecturer email is stored.
 - Opened peer-reviewed papers and official help pages. Logged them as S004–S014. Wrote a working synthesis and a documentary competitor comparison for Google Maps, Wanderlog, and Tripadvisor.
-- Left personas, jobs, journeys, MoSCoW rows, and HTAs unwritten.
+- You approved the wording of Persona 3’s card, JTBD-3, and Journey 3. Journey 3 status: wording approved – source verification pending. S007 remains unverified by you. The premium coursework scenario, MoSCoW rows, and HTAs are still unwritten.
 - Saved your three Stage 1 drafts after you approved them: introduction, market research, and competitor analysis. Source verification is still pending.
 
 ## Current task
 
-Re-read every source cited in the three working drafts and set “Verified by student” to yes only for pages you have opened. Stage 2 has not started.
+Stage 2 working files are saved: three personas, three jobs, and three journeys. Review the completion report. Do not start MoSCoW or the HTAs until you approve that milestone.
 
 ## Next task
 
-After you confirm, Stage 2 is your three personas, three jobs-to-be-done, and three journey maps. You write them. One persona must include an impairment or disability and mobile accessibility. One journey must include the premium purchase. Do not start until you say so.
+MoSCoW requirements, then three HTAs, only after you approve. Paste nothing into the Word template until you have verified the sources. The unsent lecturer question remains in `research/lecturer-email-draft.md`.
 
 ## Project status
 
 | Phase | Weight | Deadline | State |
 |---|---|---|---|
-| Week 5 checklist | 20% | 23 October 2026. `PROMPT.md` also states 3:00pm UK and PDF. Confirm on Moodle | Three written sections drafted and approved for the working files only. Source verification pending. Not in the Word template. Not submittable |
+| Week 5 checklist | 20% | 23 October 2026. `PROMPT.md` also states 3:00pm UK and PDF. Confirm on Moodle | Three personas, three jobs, and three journeys are saved. Each journey has a hypothetical Smart Travel Companion layer. Journey 1 also has the hypothetical premium scenario. Nothing is in the Word template. Source verification pending. Not submittable |
 | Prototype review | 30% | Week commencing 16 November 2026 | Not started |
 | Usability report | 50% | 18 December 2026, 3:00pm UK | Not started. Five real participants still required |
 
@@ -49,8 +49,8 @@ Not modified: the two official Word documents, Git config, SSH config.
 | Decision | State |
 |---|---|
 | Secondary research instead of interviews for the initial design work | User-reported, 18 October 2026. Documentary evidence not filed |
-| Accessibility persona | Not chosen. S007 is the strongest opened source if you use visual impairment. You decide |
-| Premium purchase and smart glasses in one journey map | Still not clarified with the lecturer. The brief asks for both across three maps |
+| Accessibility persona | Persona 3 wording approved on 18 October 2026. Composite from secondary research, not a real participant. Source verification pending. No lecturer confirmation is filed |
+| Premium purchase and glasses on a journey | Placed on Journey 1 on 18 October 2026 as one hypothetical coursework scenario for Persona 1. Not an S015 or S016 finding. Whether the brief requires them on the same map is still unsent to Dr Theil |
 | F1–F3 validated | No |
 
 ## Research blockers

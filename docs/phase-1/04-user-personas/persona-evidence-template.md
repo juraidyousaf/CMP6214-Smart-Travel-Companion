@@ -2,7 +2,7 @@
 
 **Official heading:** User Personas  
 **Template instruction:** Include screenshots of your user personas.  
-**Status: NOT STARTED.** Do not invent people. If you base the accessibility persona on visual impairment, the opened source is S007, with S006, S008, and S009 as supporting material. Write the card only after you have re-read those sources. Other impairments need sources that are not yet opened.
+**Status: Personas 1, 2, and 3 approved for the working files.** Do not invent people. Persona 3 is `persona-3-accessible-pedestrian-wayfinding.md`. S008 stays off that card and is reserved for later interface evaluation.
 
 The brief requires three personas with different needs, focused on your target audience. One must include an impairment or disability and mobile accessibility considerations (Theil, 2026).
 
@@ -23,12 +23,12 @@ Jobs-to-be-done are captured in `../05-jobs-to-be-done/jtbd-evidence-template.md
 
 | Field | Your entry |
 |---|---|
-| Status | INCOMPLETE |
-| Label | |
-| Composite or real participant | |
-| Needs, in one sentence | |
-| Evidence source IDs | |
-| Lecturer method confirmed? | |
+| Status | Approved for the working file, 18 October 2026. Source verification pending. Full card: `persona-1-on-site-attraction-planner.md` |
+| Label | On-Site Attraction Planner |
+| Composite or real participant | Composite based on secondary research – not a real participant |
+| Needs, in one sentence | Review attractions planned before the trip, and consider additional places after arriving |
+| Evidence source IDs | S015, S016. Verified by student: no |
+| Lecturer method confirmed? | No lecturer email on file |
 
 **Context of use (on foot, unfamiliar city)**
 
@@ -56,12 +56,12 @@ Only verbatim text you copied, with source ID and location. Leave empty if you h
 
 | Field | Your entry |
 |---|---|
-| Status | INCOMPLETE |
-| Label | |
-| Composite or real participant | |
-| Needs, in one sentence | |
-| Evidence source IDs | |
-| Lecturer method confirmed? | |
+| Status | Approved for the working file, 18 October 2026. Source verification pending. Full card: `persona-2-smartphone-navigation-while-walking.md` |
+| Label | Smartphone Navigation While Walking |
+| Composite or real participant | Composite based on secondary research – not a real participant |
+| Needs, in one sentence | Follow guidance on foot while still noticing the place. Your interpretation, not a quotation |
+| Evidence source IDs | S004, S017, S006. Verified by student: no |
+| Lecturer method confirmed? | No lecturer email on file |
 
 **Context of use (on foot, unfamiliar city)**
 
@@ -85,13 +85,13 @@ Only verbatim text you copied, with source ID and location. Leave empty if you h
 
 | Field | Your entry |
 |---|---|
-| Status | BLOCKED |
-| Label | |
-| Composite or real participant | |
-| Impairment or disability, named as your sources name it | |
-| Needs, in one sentence | |
-| Evidence source IDs | |
-| Lecturer method confirmed? | |
+| Status | Wording approved – source verification pending. Confirmed 18 October 2026. Full card: `persona-3-accessible-pedestrian-wayfinding.md` |
+| Label | Accessible Pedestrian Wayfinding |
+| Composite or real participant | Composite based on secondary research – not a real participant |
+| Impairment or disability, named as your sources name it | The S007 population: people who are blind, have low vision, or are deafblind. Not one person with all three conditions |
+| Needs, in one sentence | Control how wayfinding guidance is provided, with a preview before moving and updates while moving. Your interpretation of S007, not a universal requirement |
+| Evidence source IDs | S007, S006. S009 is competitor context only. S008 is not on the card. Verified by student: no |
+| Lecturer method confirmed? | No lecturer email on file |
 
 Do not select an impairment in this template in advance. Record the one your reading can support, after approval of the method.
 

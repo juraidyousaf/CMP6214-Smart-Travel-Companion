@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Journey 3 — Accessible Pedestrian Wayfinding</title>
+  <style>
+    :root {
+      --ink: #1c1917;
+      --muted: #57534e;
+      --line: #d6d3d1;
+      --paper: #fafaf9;
+      --interpret: #fff7ed;
+      --evidence: #f5f5f4;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 28px;
+      background: #e7e5e4;
+      color: var(--ink);
+      font-family: "Segoe UI", Calibri, sans-serif;
+      font-size: 15px;
+      line-height: 1.4;
+    }
+    article {
+      max-width: 1100px;
+      margin: 0 auto;
+      background: white;
+      border: 1px solid var(--line);
+      padding: 28px 32px 24px;
+    }
+    header p, .banner, .job, footer { margin: 0; }
+    .kicker {
+      font-size: 12px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    h1 {
+      margin: 4px 0 8px;
+      font-size: 26px;
+      font-weight: 650;
+      letter-spacing: -0.02em;
+    }
+    .banner {
+      margin-top: 10px;
+      padding: 8px 12px;
+      background: var(--ink);
+      color: white;
+      font-weight: 650;
+    }
+    .status {
+      margin: 10px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .job {
+      margin-top: 14px;
+      padding: 12px 14px;
+      background: var(--paper);
+      border-left: 4px solid var(--ink);
+    }
+    .job strong { display: block; margin-bottom: 4px; }
+    .stages {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-top: 16px;
+    }
+    .stage { border: 1px solid var(--line); }
+    .stage h2 {
+      margin: 0;
+      padding: 10px 12px;
+      background: var(--ink);
+      color: white;
+      font-size: 16px;
+    }
+    .row { padding: 10px 12px; border-top: 1px solid var(--line); }
+    .row span {
+      display: block;
+      margin-bottom: 3px;
+      font-size: 11px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .interpret { background: var(--interpret); }
+    .evidence { background: var(--evidence); }
+    .hypo { background: #eff6ff; }
+    .tag {
+      display: inline-block;
+      margin-bottom: 4px;
+      font-size: 11px;
+      font-weight: 650;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+    .notes { margin-top: 16px; }
+    .notes h2 { margin: 16px 0 8px; font-size: 16px; }
+    .notes ul { margin: 0; padding-left: 18px; }
+    .notes li { margin: 0 0 6px; }
+    footer {
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <article>
+    <header>
+      <p class="kicker">CMP6214 Week 5 checklist · Journey 3 · JTBD-3</p>
+      <h1>Accessible Pedestrian Wayfinding</h1>
+      <p class="banner">Composite based on secondary research – not a real participant.</p>
+      <p class="status">Wording approved – source verification pending. S007 has not been marked as read.</p>
+    </header>
+
+    <p class="job">
+      <strong>Job. An interpretation based on secondary research, not a participant statement.</strong>
+      When I am wayfinding with a smart device, before I move and while I am moving, I want to adjust the speed and amount of guidance, choose among audio, visual, and haptic output, preview the route before I move, and receive live route updates while I move, so I can access wayfinding information in a manner suited to my needs throughout the journey. The outcome is a design interpretation. S007 does not state it.
+    </p>
+
+    <div class="stages">
+      <section class="stage">
+        <h2>1. Before Moving</h2>
+        <div class="row interpret">
+          <span>Goal</span>
+          <em class="tag">Design interpretation of S007, not a quotation or an established outcome</em>
+          Preview wayfinding information before moving.
+        </div>
+        <div class="row evidence">
+          <span>Action · S007 review theme</span>
+          Use a preview of the route before travel. The review reports a preview before travel. No taps, screens, or interaction sequence are added.
+        </div>
+        <div class="row evidence">
+          <span>Touchpoint · S007</span>
+          A smart device, as used in the studies reviewed. 33 of 35 studies used a smart device. No product is named.
+        </div>
+        <div class="row evidence">
+          <span>Reported options · S007</span>
+          Speed, amount, and audio, visual, or haptic output are options reported in the review. They are not actions observed at this stage.
+        </div>
+        <div class="row">
+          <span>Thought</span>
+          Not reported as a single emotion in the reviewed evidence.
+        </div>
+        <div class="row">
+          <span>Difficulty</span>
+          Not reported for this stage in the reviewed S007 account. An unreported difficulty is not treated as evidence that none occurred.
+        </div>
+      </section>
+
+      <section class="stage">
+        <h2>2. While Moving</h2>
+        <div class="row interpret">
+          <span>Goal</span>
+          <em class="tag">Design interpretation of S007, not a quotation or an established outcome</em>
+          Receive live wayfinding information while moving, with the device remaining usable.
+        </div>
+        <div class="row evidence">
+          <span>Action · S007 review themes</span>
+          Receive live route information during travel on a device that stays usable while the person moves. No taps, screens, or interaction sequence are added.
+        </div>
+        <div class="row evidence">
+          <span>Touchpoint · S007</span>
+          A smart device, as used in the studies reviewed. 33 of 35 studies used a smart device. No product is named.
+        </div>
+        <div class="row evidence">
+          <span>Reported options · S007</span>
+          Speed, amount, and audio, visual, or haptic output are options reported in the review. They are not actions observed at this stage.
+        </div>
+        <div class="row">
+          <span>Thought</span>
+          Not reported as a single emotion in the reviewed evidence.
+        </div>
+        <div class="row">
+          <span>Difficulty</span>
+          Not reported for this stage in the reviewed S007 account. An unreported difficulty is not treated as evidence that none occurred.
+        </div>
+      </section>
+    </div>
+
+    <section class="notes">
+      <h2>S007 review themes</h2>
+      <ul>
+        <li>Parker et al. (2021), awaiting personal verification. People who are blind, have low vision, or are deafblind. These are not one person’s experience. Real indoor and outdoor settings. Not a tourist study.</li>
+        <li>Preview before travel. Live information during travel. A device that stays usable while the person moves.</li>
+        <li>Speed, amount, and a choice of audio, visual, or haptic output are reported options, not a sequence, and not evidence that every person uses all three.</li>
+      </ul>
+      <h2>Kept outside both goals</h2>
+      <ul>
+        <li>Real-time route information was associated with higher success in the studies reviewed. That association is not either goal and not a personal result for this composite.</li>
+        <li>Some participants found apps reduced what they had to remember. Others reported more cognitive load. Neither finding is assigned to this composite.</li>
+      </ul>
+      <h2>Interpretations</h2>
+      <ul>
+        <li>Both goals, and JTBD-3 as a whole, including the outcome about accessing wayfinding information in a manner suited to the person’s needs.</li>
+        <li>Any proposed application to a city tourist on foot is an interpretation, not an S007 finding.</li>
+        <li>Not inside the research stages: S006, S008, S009, mobility aids as stages, premium purchase, or smart glasses. The block below is hypothetical. Smart Travel Companion’s accessibility has not been tested or validated.</li>
+      </ul>
+    </section>
+    <section class="notes">
+      <h2>Proposed Smart Travel Companion Interactions – Hypothetical Design Decisions, Not Research Findings.</h2>
+    </section>
+    <div class="stages">
+      <section class="stage">
+        <h2>Before Moving</h2>
+        <div class="row hypo">
+          <span>Hypothetical interaction</span>
+          Use a route preview in Smart Travel Companion before moving.
+        </div>
+      </section>
+      <section class="stage">
+        <h2>While Moving</h2>
+        <div class="row hypo">
+          <span>Hypothetical interaction</span>
+          Receive live route information in Smart Travel Companion while moving.
+        </div>
+      </section>
+    </div>
+    <p class="status">These lines were not observed in S007. They do not mean every person needs the same interface. No premium purchase and no smart glasses.</p>
+    <footer>Working figure for a checklist screenshot. Formatting of the approved cells only. Not a Moodle upload until S007 has been read.</footer>
+  </article>
+</body>
+</html>

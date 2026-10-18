@@ -26,7 +26,7 @@ I have not treated these methods as a replacement for primary research. I am ask
 
 I also need guidance on the persona that must include an impairment or disability. If I cannot interview someone with that lived experience, what evidence will you accept? I want this persona to rest on sources I have actually read, including published research and documented accessibility guidance, rather than on assumption. Please tell me the minimum you expect.
 
-One further clarification, if you have time. The brief asks for three journey maps, one of which should be a premium smart-glasses feature, and it also says one map must include a persona purchasing a premium membership. May both of those moments sit in a single persona’s map, or should they be separate?
+One further clarification, if you have time. The Week 5 list asks for three user journey maps, one of which should be a premium smart-glasses feature. The brief also says there must be at least one journey map for each persona, and that one of those maps must include a persona purchasing a premium membership. Do the membership purchase and the smart-glasses feature have to appear together in one of those three Week 5 maps? I will not treat a purchase as something the research showed a persona wants. The interactive checkout and glasses screens are ones I understand as part of the Week 9 prototype.
 
 I will follow the method you confirm.
 

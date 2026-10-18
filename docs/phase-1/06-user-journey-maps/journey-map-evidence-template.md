@@ -2,7 +2,7 @@
 
 **Official heading:** User Journey Maps  
 **Template instruction:** Include screenshots of your user journey maps.  
-**Status: NOT STARTED.**
+**Status: NOT STARTED.** One of the three maps must include premium membership purchase, and the set must cover the smart-glasses feature, as the brief requires. Those steps are coursework requirements where a source does not mention them. Do not invent emotions or stages.
 
 ## Requirements from the brief
 

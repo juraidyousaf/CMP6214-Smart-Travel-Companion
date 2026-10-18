@@ -2,7 +2,7 @@
 
 **Official heading:** User Personas  
 **Template instruction:** Include screenshots of your user personas.  
-**Status: NOT STARTED.**
+**Status: NOT STARTED.** Do not invent people. If you base the accessibility persona on visual impairment, the opened source is S007, with S006, S008, and S009 as supporting material. Write the card only after you have re-read those sources. Other impairments need sources that are not yet opened.
 
 The brief requires three personas with different needs, focused on your target audience. One must include an impairment or disability and mobile accessibility considerations (Theil, 2026).
 

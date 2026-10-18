@@ -2,7 +2,7 @@
 
 **Official heading:** References  
 **Template instruction:** Include a list of references used in the report following Harvard. The template links to https://www.bcu.ac.uk/library/services-and-support/referencing/Harvard  
-**Status: INCOMPLETE.**
+**Status: INCOMPLETE.** Draft references for sources opened on 18 October 2026 are in `research/source-register.md`. They are not the submission list until you re-read each source, check Cite Them Right Harvard, and cite it in your text. S014 is abstract-only. The Tripadvisor statement is unverified and must not be listed yet.
 
 The brief requires **Cite Them Right Harvard** (Theil, 2026). BCU Library’s page, fetched 18 October 2026, says Harvard is the main university system and that BCU Harvard is being phased out but may still be used on some courses (source S003). Follow the brief. Download the current guide from that page while signed into BCU, including the CEBE short guide if it is the one your faculty expects, and match your list to it.
 

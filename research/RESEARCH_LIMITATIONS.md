@@ -1,7 +1,6 @@
 # Research limitations
 
-**Status: current constraint, recorded 18 October 2026.**  
-**This file does not approve a change of method.**
+**Status: updated 18 October 2026.**
 
 ## Constraint
 
@@ -14,33 +13,45 @@ Because of that:
 - No transcripts, quotations, or interview-based findings exist.
 - This workspace must not simulate interviews or invent respondents.
 
-## What the constraint affects
+## Secondary research
 
-Week 5 expects research-informed personas, jobs-to-be-done, journey maps, and requirements. Interviews are one accepted way to inform those artefacts. They are not available to you before the 23 October 2026 deadline.
+On 18 October 2026 you confirmed that secondary research can be used instead of interviews for the initial user-centred design work.
 
-The accessibility persona is especially affected. The brief requires one persona with an impairment or disability and mobile accessibility considerations. Without interviews, that persona cannot be based on a conversation with a disabled traveller. It also must not be based on an imagined account of disability.
+| | |
+|---|---|
+| What was confirmed | Secondary research may inform the Week 5 personas, journeys, requirements, and related writing |
+| Who confirmed it | You, in the project instruction for this phase |
+| Documentary evidence in the repository | None. No lecturer email or reply is filed |
+| How to label it | User-reported. Awaiting documentary evidence |
+| Where the method is written | `ALTERNATIVE_RESEARCH_PLAN.md` |
 
-## What the constraint does not do
+Until a written reply is stored, the checklist should say that the method was adopted on your confirmation and that a lecturer email is not yet attached. Do not write “the module leader approved this” unless you have that email.
 
-- It does not, by itself, make secondary research an acceptable substitute. Your lecturer needs to confirm that. See `ALTERNATIVE_RESEARCH_PLAN.md` and `lecturer-email-draft.md`.
+The accessibility persona still cannot be a fictional disabled traveller. It can draw on published research you have read, especially S007, and on WCAG 2.2 as a standard rather than as a lived experience. You choose the impairment and write the persona.
+
+## What this permission does not do
+
 - It does not complete Phase 1.
-- It does not waive the Phase 3 usability study. The report still requires at least five genuine participants and at least two data-collection techniques, unless the module leader changes that requirement in writing. Phase 3 is a later deadline (18 December 2026). This file only records that interviews cannot be done now.
+- It does not turn the synthesis into your submission text.
+- It does not verify sources on your behalf. “Verified by student” in the register is still `no`.
+- It does not waive Phase 3. The report still requires at least five genuine participants and at least two data-collection techniques, unless the module leader changes that requirement in writing. Deadline: 18 December 2026, 3:00pm UK time.
+
+## Limits of the evidence gathered on 18 October 2026
+
+- The opened studies are about pedestrian wayfinding, AR navigation, and visual-impairment wayfinding. They are not studies of holiday sightseeing or of this app.
+- S014’s full text was not opened.
+- Tripadvisor’s pages were not opened.
+- Google Maps, Wanderlog, and Tripadvisor were not used in a logged session.
+- No market-size statistic was copied, because no statistics publisher page was opened for that purpose.
 
 ## Ethical boundary
 
-The Week 5 template asks you to confirm that the project is undertaken ethically and stays within scope. Creating people who were not studied would break that confirmation. If a method needs consent or faculty approval, stop and ask before running it.
-
-## Allowed activity while interviews are unavailable
-
-You may prepare instruments, read published work, and observe products you can access legally, as described in the alternative plan. Notes from those activities are usable in the checklist only after:
-
-1. You carried them out yourself.
-2. You logged the source.
-3. Your lecturer has agreed that this evidence can inform the Week 5 artefacts, or you have recorded a reasoned decision if you must submit before a reply arrives.
+The Week 5 template asks you to confirm that the project is ethical and within scope. Creating people who were not studied would break that confirmation. Secondary sources do not remove the need to show where each claim comes from.
 
 ## Review
 
 | Date | Review |
 |---|---|
-| 18 October 2026 | Constraint recorded at project setup. No lecturer reply on file. |
-| | Add the date of the lecturer’s reply here. |
+| 18 October 2026 | Interview constraint recorded at project setup. |
+| 18 October 2026 | You confirmed secondary research for the initial design work. Documentary lecturer approval is still absent. |
+| | Add the date of any written lecturer reply here. |

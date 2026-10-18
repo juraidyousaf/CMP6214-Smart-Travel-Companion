@@ -1,71 +1,76 @@
 # Memory
 
-Living roadmap. Update this file when a task changes state. Last updated: 18 October 2026.
+Living roadmap. Last updated: 18 October 2026, after the secondary-research pass. Git author settings were not changed. Nothing was committed.
 
 ## Completed work
 
-- Read the assessment brief and the Week 5 Word template on 18 October 2026.
-- Created the project folder structure, management files, research constraints, alternative research plan, lecturer email draft, and blank Phase 1 templates.
-- Logged that setup in `AI_USAGE_LOG.md`.
+- Read the assessment brief and the Week 5 template. Built the workspace. Pushed the initial commit as Juraid Yousaf only.
+- On your confirmation, switched the Week 5 method to secondary research. No lecturer email is stored.
+- Opened peer-reviewed papers and official help pages. Logged them as S004–S014. Wrote a working synthesis and a documentary competitor comparison for Google Maps, Wanderlog, and Tripadvisor.
+- Left personas, jobs, journeys, MoSCoW rows, and HTAs unwritten.
 
 ## Current task
 
-Review this workspace, then edit and send `research/lecturer-email-draft.md` to Dr Arthur Theil.
+Draft the introduction, market research, and competitor analysis yourself, using `docs/phase-1/01-concept/section-writing-guide.md`. Stage 1 is not complete until those drafts exist.
 
 ## Next task
 
-Run three observation sessions of existing travel or map apps and fill `docs/phase-1/03-competitor-analysis/competitor-observation-log.md`.
+After you approve the three sections, Stage 2 is your personas, jobs-to-be-done, and journey maps. It has not started.
 
 ## Project status
 
 | Phase | Weight | Deadline | State |
 |---|---|---|---|
-| Week 5 checklist | 20% | 23 October 2026 | Templates only. Research not done. Not submittable |
-| Prototype review | 30% | Week commencing 16 November 2026 | Not started. In person. No late allowance |
-| Usability report | 50% | 18 December 2026, 3:00pm UK | Not started. Five real participants still required later |
+| Week 5 checklist | 20% | 23 October 2026. `PROMPT.md` also states 3:00pm UK and PDF. Confirm on Moodle | Evidence and writing guides exist. Your assessed sections do not. Not submittable |
+| Prototype review | 30% | Week commencing 16 November 2026 | Not started |
+| Usability report | 50% | 18 December 2026, 3:00pm UK | Not started. Five real participants still required |
 
 Phase 1 is not complete.
 
-## Files created or edited on 18 October 2026
-
-Official documents already in the folder, read and left unchanged:
-
-- `T1_CMP6214 User Experience Design Assessment Brief 2026-27.docx`
-- `[TEMPLATE] Student Name CMP6214 Week 5 Initial User Centred Design Checklist.docx`
+## Files created or edited on 18 October 2026, research pass
 
 Created:
 
-- `README.md`, `PRD.md`, `ARCHITECTURE.md`, `RULES.md`, `PHASES.md`, `DESIGN.md`, `MEMORY.md`, `AI_USAGE_LOG.md`
-- `research/RESEARCH_LIMITATIONS.md`, `research/ALTERNATIVE_RESEARCH_PLAN.md`, `research/lecturer-email-draft.md`, `research/source-register.md`, `research/research-notes.md`
-- `docs/phase-1/` section index, concept outline, market plan and notes, competitor framework and observation log, persona template, jobs-to-be-done template, journey-map template, MoSCoW template, HTA worksheet, Harvard worksheet, Week 5 outline
-- Phase 2 and Phase 3 folder notes
-- `assets/`, `templates/`, and `submissions/` notes
+- `research/secondary-research-synthesis.md`
+- `docs/phase-1/03-competitor-analysis/competitor-comparison.md`
+- `docs/phase-1/03-competitor-analysis/observation-checklist.md`
 
-## Decisions awaiting approval
+Updated:
 
-| Decision | Why it matters | Where it is drafted |
-|---|---|---|
-| May Week 5 rest on secondary research and product observation if interviews cannot be run? | Personas and journeys cannot be honestly completed from interviews you cannot conduct | `research/lecturer-email-draft.md` |
-| What evidence will be accepted for the persona with an impairment? | The brief requires this persona. It must not be invented | Same email |
-| Can premium purchase and the smart-glasses feature sit in one journey map? | The brief asks for both, across three maps | Same email |
+- `PRD.md`, `RULES.md`, `PHASES.md`, `MEMORY.md`, `AI_USAGE_LOG.md`
+- `research/RESEARCH_LIMITATIONS.md`, `research/ALTERNATIVE_RESEARCH_PLAN.md`, `research/source-register.md`, `research/research-notes.md`
+- Phase 1 scaffolds, with pointers only. Assessed answers were not filled in
+
+Not modified: the two official Word documents, Git config, SSH config.
+
+## Decisions
+
+| Decision | State |
+|---|---|
+| Secondary research instead of interviews for the initial design work | User-reported, 18 October 2026. Documentary evidence not filed |
+| Accessibility persona | Not chosen. S007 is the strongest opened source if you use visual impairment. You decide |
+| Premium purchase and smart glasses in one journey map | Still not clarified with the lecturer. The brief asks for both across three maps |
+| F1–F3 validated | No |
 
 ## Research blockers
 
-- Interviews cannot be conducted at present. No participants, transcripts, or quotations exist.
-- The lecturer has not confirmed a replacement method.
-- No competitor sessions have been run.
-- No academic or official sources have been read by you. Three setup sources in the register (the brief, the template, and the BCU Harvard page) were opened during workspace setup and still need your own verification.
-- No screenshots, persona cards, journey maps, requirement rows, or HTA drawings exist.
+- Prompt Milestone 1 is partially complete: sources are registered by Cursor and awaiting your verification.
+- You have not re-read the sources.
+- S014 full text is unopened.
+- Tripadvisor pages are unverified.
+- No observation sessions or screenshots.
+- No personas, journeys, requirements, or HTA drawings.
+- RQ1, how tourists discover attractions, has no opened study.
 
 ## Upcoming deadlines
 
 | Date | Event |
 |---|---|
-| 18–20 October 2026 | Email, observations, and source reading if Week 5 is to be evidence-based |
-| 23 October 2026 | Week 5 checklist on Moodle. Confirm the clock time on Moodle. Late penalties apply |
+| 19–22 October 2026 | Your reading, three app sessions, then your own checklist writing |
+| 23 October 2026 | Week 5 checklist on Moodle |
 | Week commencing 16 November 2026 | In-person prototype review |
 | 18 December 2026, 3:00pm UK | 2,000-word usability report |
 
 ## Pause
 
-Assessed persona, journey-map, requirements, and HTA writing waits until you have reviewed this setup and have evidence to write from.
+Do not treat the synthesis as the submission. Assessed persona, journey, requirement, and HTA work starts after you have reviewed the evidence.

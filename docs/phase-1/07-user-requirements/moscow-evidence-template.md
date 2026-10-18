@@ -2,7 +2,7 @@
 
 **Official heading:** User Requirements  
 **Template instruction:** Include a table or screenshot of your user requirements using the MoSCoW method.  
-**Status: NOT STARTED.**
+**Status: NOT STARTED.** Leave the table empty until you accept a requirement. Candidate needs in the synthesis are not rows. Brief-required flows such as checkout can be entered later with origin “brief”.
 
 The brief spells the method “MoSCOW” in the submission list and the template uses “MoSCoW”. Use **MoSCoW**: Must, Should, Could, Won’t (this time).
 

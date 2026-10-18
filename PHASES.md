@@ -1,69 +1,36 @@
 # Phases and milestones
 
-Dates below are taken from the CMP6214 assessment brief (Theil, 2026). Today in the project record is 18 October 2026. The Week 5 deadline is 23 October 2026.
+Dates for the three assessments come from the CMP6214 brief read on 18 October 2026. `PROMPT.md` adds a user-reported Moodle instruction: Week 5 as a PDF by **23 October 2026, 3:00pm UK time**. The brief itself gave 23 October 2026 and did not state a clock time for Week 5. The 3:00pm time in the brief applied to the 18 December report. Confirm the Moodle page before you rely on the clock time.
 
-Nothing in Phase 1 is accepted as complete until the acceptance criteria are met by **your** writing and **your** sources.
+Nothing is complete until you have written it and checked the sources.
 
-## Phase 1 — Week 5 checklist (20%)
+## Week 5 checklist (20%) — four stages
 
-**Deadline:** 23 October 2026, Moodle.  
-**Template:** `[TEMPLATE] Student Name CMP6214 Week 5 Initial User Centred Design Checklist.docx`  
-**Working outline:** `docs/phase-1/10-final-submission/week-5-checklist-outline.md`
+**Template, unchanged:** `[TEMPLATE] Student Name CMP6214 Week 5 Initial User Centred Design Checklist.docx`  
+**Path:** your words, then the official DOCX, your signature, then PDF. Do not upload the markdown.
 
-### Milestone 1.1 — Method agreed
+The earlier nine-milestone prompt is replaced by this plan. Research already logged as S004–S018 stays in place.
 
-| | |
-|---|---|
-| Tasks | Edit and send `research/lecturer-email-draft.md`. Record the reply in `research/research-notes.md`. Update `MEMORY.md`. |
-| Acceptance | You have written confirmation, or a documented decision if no reply arrives before you must proceed. You can state which evidence types are allowed for personas, including the accessibility persona. |
-| Status | BLOCKED — email not sent |
-
-### Milestone 1.2 — Evidence gathered
-
-| | |
-|---|---|
-| Tasks | Observe existing travel or map products using `docs/phase-1/03-competitor-analysis/competitor-observation-log.md`. Search, read, and log published feedback and academic or official sources in `research/source-register.md` and `research/research-notes.md`. Store screenshots in `assets/screenshots/` with filenames that match the log. |
-| Acceptance | At least three observation sessions with date, product version, and your notes. Every source you intend to cite is in the register with “Verified by student: yes”. Notes separate what the source says from what you infer. No empty citations. |
-| Status | INCOMPLETE |
-
-### Milestone 1.3 — Argument drafted by you
-
-| | |
-|---|---|
-| Tasks | Write the introduction, problem statement, market summary, and competitor summary in the Phase 1 files, then into the Word template. |
-| Acceptance | Each paragraph is yours. Each factual sentence has a source ID or is labelled HYPOTHESIS. The problem statement matches evidence you can point to. |
-| Status | INCOMPLETE — do not start the assessed draft until Milestone 1.2 has enough material to write from, and Milestone 1.1 is resolved or explicitly risk-accepted by you |
-
-### Milestone 1.4 — Personas, jobs, journeys, requirements, HTAs
-
-| | |
-|---|---|
-| Tasks | Using the blank templates, create three personas, at least one job-to-be-done each, three journey maps, a MoSCoW list, and three HTAs. |
-| Acceptance | Three personas with different needs. One includes an impairment or disability and mobile accessibility considerations, supported by the evidence standard in `RULES.md`. One journey includes a premium membership purchase. The set covers a premium smart-glasses feature, unless your lecturer directs otherwise. MoSCoW rows trace to personas and sources. Three HTA flowcharts are image diagrams you drew for the three main features, with plans. You can talk through each artefact without an AI script. |
-| Status | NOT STARTED — waiting for your review of the workspace before this milestone begins |
-
-### Milestone 1.5 — Submit
-
-| | |
-|---|---|
-| Tasks | Complete Harvard references and appendices. Paste into the Word template. Sign the declaration. Export a copy to `submissions/`. Upload to Moodle. Add an AI declaration if required by the checklist instructions you are given. |
-| Acceptance | The Word file matches the template sections. Appendices contain only real evidence. The reference list matches in-text citations. `AI_USAGE_LOG.md` is up to date. |
-| Status | NOT STARTED |
-
-### Phase 1 task order through 23 October 2026
-
-| Priority | When | Task | Done when |
+| Stage | Target | Status | Done when |
 |---|---|---|---|
-| 1 | 18 October | Send the lecturer email | Sent, and the date is logged |
-| 2 | 18–19 October | Three competitor observation sessions | Log filled, screenshots saved |
-| 3 | 19–20 October | Read and register real sources, including material relevant to pedestrian navigation and accessibility | Register rows verified by you; notes in your words |
-| 4 | 20 October | Review evidence quality before any persona writing | You can list what each source supports and what it does not |
-| 5 | 20–21 October | Write introduction, market research, and competitor analysis | Criteria in Milestone 1.3 |
-| 6 | 21–22 October | Personas, jobs-to-be-done, journey maps | Criteria in Milestone 1.4, then a self-review |
-| 7 | 22 October | MoSCoW and three HTAs drawn by you | Traceable to journeys; diagrams are images, not Mermaid |
-| 8 | 22–23 October | References, appendices, Word template, submission | File in `submissions/` and on Moodle |
+| 1. Research and written sections | 18–19 October 2026 | PARTIAL. Evidence and writing guides exist. Your three sections do not | You have drafted the introduction, market research, and competitor analysis, and each factual sentence has a source you re-read |
+| 2. Personas, jobs, journey maps | 20–21 October 2026 | NOT STARTED | Three personas, three jobs, three maps, written by you. One accessibility persona. One premium journey |
+| 3. MoSCoW and HTA | 22 October 2026 | NOT STARTED | Your MoSCoW table and three HTA diagrams |
+| 4. References, appendices, DOCX, PDF | 23 October 2026 | NOT STARTED | Signed checklist exported to PDF and checked. Not uploaded until you say so |
 
-If the lecturer has not replied by the time you reach priority 6, re-read `research/RESEARCH_LIMITATIONS.md` and decide explicitly whether to submit on secondary evidence. Record that decision. Do not quietly treat hypotheses as findings.
+### Stage 1 tasks
+
+| Task | Status |
+|---|---|
+| 1.1 Review S004–S018 and choose what you will cite | Waiting for you. Priority reading list is in `docs/phase-1/01-concept/section-writing-guide.md` |
+| 1.2 Documentary competitor comparison | PARTIAL. Google Maps S009–S010, Wanderlog S011–S013, Tripadvisor Trips help S018. Accessibility statement still unverified. No app sessions |
+| 1.3 Your three written sections | NOT STARTED. Guides are ready. Drafts are yours |
+
+Secondary research remains user-reported. No lecturer email is filed.
+
+### Rubric note
+
+`PROMPT.md` says Moodle scores ten criteria at ten points each: introduction, market research, competitor analysis, personas, jobs-to-be-done, journey maps, requirements, HTA, references, appendices. That rubric file is not in this folder. The brief’s grade bands are the marking text that was read from the official document.
 
 ## Phase 2 — Prototype lightning review (30%)
 

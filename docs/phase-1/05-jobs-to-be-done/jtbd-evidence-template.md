@@ -2,7 +2,7 @@
 
 **Official heading:** Jobs-to-be-done  
 **Template instruction:** Describe the jobs-to-be-done.  
-**Status: NOT STARTED.**
+**Status: NOT STARTED.** A job needs a situation you can point to in a source or in your observation log. Candidate situations are listed in the synthesis and are not jobs until you write them.
 
 The brief requires at least one job-to-be-done for each user persona (Theil, 2026).
 

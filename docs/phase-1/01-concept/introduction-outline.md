@@ -4,6 +4,8 @@
 **Template instruction:** Briefly introduce your mobile app and include a problem statement.  
 **Status: INCOMPLETE.** Prompts only. The paragraphs below the line are for you.
 
+Working evidence is in `research/secondary-research-synthesis.md`. A supportable problem statement can use pedestrian-navigation difficulties from S004, S006, and, if you open the PDF, S014. It cannot yet claim that tourists fail to discover landmarks. That is RQ1, and it is still open. Keep F1–F3 labelled as hypotheses.
+
 ## What the section needs to do
 
 - Name the app and the theme: Interaction on the Move.

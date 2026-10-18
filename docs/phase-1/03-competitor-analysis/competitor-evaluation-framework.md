@@ -1,6 +1,6 @@
 # Competitor evaluation framework
 
-**Status: instrument ready, unused. This is not a competitor analysis.**
+**Status: instrument ready.** The three products for this checklist are Google Maps, Wanderlog, and Tripadvisor. Documentary notes are in `competitor-comparison.md`. Your sessions use `observation-checklist.md`. The wider candidate list below is optional context, not the comparison.
 
 Use it with `competitor-observation-log.md`. The checklist summary is written only from completed logs and screenshots.
 

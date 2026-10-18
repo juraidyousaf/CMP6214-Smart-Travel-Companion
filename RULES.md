@@ -57,9 +57,11 @@ A persona, job, journey step, or requirement is ready for the checklist only whe
 2. The underlying note is in your words, or a quotation is copied exactly with a citation and access date.
 3. Assumptions are still labelled as assumptions.
 4. You can explain it without reading from an AI draft.
-5. Where the method replaces interviews, your lecturer has confirmed that the method is acceptable.
+5. Where the method replaces interviews, record the permission. On 18 October 2026 you confirmed that secondary research may inform the initial user-centred design work. No lecturer email is filed. Label that permission user-reported until the document is stored. Phase 3 participant testing is not covered by this confirmation.
 
-Public web pages, app-store reviews, and academic papers are sources only after you open them and log them. A search result title is not a source.
+Public web pages, app-store reviews, and academic papers are sources only after you open them and log them. A search result title is not a source. An abstract-only source stays marked that way. A page that failed to load is Unverified and is not cited.
+
+Secondary research may organise the Week 5 argument. It may not be written up as if you had interviewed people. AI-opened sources in the register still need your own reading before they enter the Word file. The brief still forbids using AI to create personas, journey maps, requirements, HTA flowcharts, references, or research results.
 
 ## 6. Citations
 
@@ -85,7 +87,7 @@ The brief requires one persona with some form of impairment or disability, and m
 
 Rules for this project:
 
-- You choose the impairment from evidence you can actually gather, after your lecturer confirms the method.
+- You choose the impairment from evidence you can actually gather. Secondary sources can inform that choice. They cannot supply a fictional biography.
 - Do not assign a disability in order to complete the template.
 - Do not describe how a disabled person experiences the city unless a source you cite says so, and then paraphrase or quote that source.
 - Accessibility requirements enter the MoSCoW list only when they are justified.

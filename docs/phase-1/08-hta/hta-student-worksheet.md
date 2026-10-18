@@ -2,7 +2,7 @@
 
 **Official heading:** Hierarchical Task Analysis (HTA)  
 **Template instruction:** Include your three HTA flowcharts here.  
-**Status: NOT STARTED.**
+**Status: NOT STARTED.** You name the three goals and draw the three charts. The synthesis does not decompose tasks for you.
 
 The brief asks for Hierarchical Task Analyses for each of the three main features (Theil, 2026).
 

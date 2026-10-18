@@ -2,7 +2,9 @@
 
 **Official heading:** Market Research  
 **Template instruction:** Briefly summarise your initial market research results.  
-**Status: INCOMPLETE. No results yet.**
+**Status: INCOMPLETE. No market summary yet.**
+
+Read the synthesis before drafting. Usable themes are pedestrian attention and landmark memory (S004, S006), mixed outdoor AR evidence (S005), and accessibility of wayfinding (S007, S008). No market-size figure was collected. Do not add one from memory. The limitations to state are: no interviews, no tourist-discovery study opened, S014 abstract-only unless you open it, and no app sessions yet.
 
 ## Summary for the checklist (write last)
 

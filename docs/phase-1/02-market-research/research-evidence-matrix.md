@@ -1,0 +1,29 @@
+# Research evidence matrix
+
+**Status: working aid for Milestone 1. Not assessed requirements.**  
+**Date:** 18 October 2026.
+
+Every row is awaiting your reading. “Verified by student” is `no` for all of them. Candidate needs are not MoSCoW entries.
+
+| Source | Question | What the opened text supports | What it does not support | Candidate need, for you to accept or reject |
+|---|---|---|---|---|
+| S004 Lakehal et al. (2023) | RQ2, RQ5 | On one unfamiliar residential path, 20 adults remembered landmarks and the path better with AR glasses than with a phone. Both devices used the same landmark-based guidance | City-tourist behaviour. Demand for a paid glasses product. Performance in a crowded centre | Keep the next instruction in view without looking down at a phone |
+| S005 Qiu, Mostafavi and Kalantari (2025) | RQ2, RQ5 | AR wayfinding studies report indoor performance gains more consistently than outdoor ones. Visual guidance and overview maps are favoured in the review. Hardware, localisation, and interface problems are also reported | A single number of studies, until you check 88 against 65. A tourism product test | Offer a short visual cue plus a separate overview, and expect outdoor use to be harder than indoor demos |
+| S006 Ruginski et al. (2022) | RQ2, RQ4, RQ6 | Nine design principles: local plus global information, map alignment, low clutter, chunked speech, landmarks, more than one sense, physical access, non-visual cues, and avoiding overload. Easier navigation can also reduce attention to the street | How tourists choose an attraction. A test of Google Maps | Let the person choose how much context they see, and do not fill the screen |
+| S007 Parker et al. (2021) | RQ3, RQ4 | Review of 35 real-world studies, 2016 to February 2021, of wayfinding by people who are blind, have low vision, or are deafblind. 33 used a smart device. Themes: control of speed and verbosity, choice of audio, visual, and haptic output, preview plus live guidance, comfortable device placement | Every disability. A named persona. Proof that one tourist app is enough. The authors say some travellers in cited focus groups needed more than one app | Make guidance adjustable, and do not treat one sensory channel as enough |
+| S008 WCAG 2.2 | RQ4 | A testable standard for web content on phones, covering several disability groups, and stating that it does not cover every need. Page dated 12 December 2024 | A study of tourists | Check the interface against the standard when you design. Do not cite it as a user story |
+| S009 Google Maps accessibility help | RQ3, RQ4 | Official walking voice guidance, TalkBack, and wheelchair place and transit information, with country and device limits | That tourists can complete those steps easily. A glasses mode | Check access information, and do not assume it exists in every city |
+| S010 Google Maps navigation help | RQ3 | Walking is one directions mode. Navigation needs GPS, location, and sound. Voice can continue with the screen off. Battery use is stated | A verified multi-stop sightseeing workflow. The linked “add more destinations” page was not opened | Separate “start walking” from “build a day’s list” until you test it |
+| S011–S013 Wanderlog help | RQ3 | Walking time between itinerary places. Pro: reorder one day, and download the plan for offline use | Turn-by-turn street guidance. Price. Accessibility. Glasses | A plan and a live walk may be different tasks |
+| S014 Ishikawa et al. (2008) | RQ2 | Abstract only: GPS-phone users on six unfamiliar routes travelled farther and stopped more than map users and people who had already been shown the route. Compared with that experienced group, they were slower, made larger direction errors, drew poorer sketch maps, and rated the task harder | Any detail not in the abstract. Current map apps | Do not cite beyond the abstract unless you open the PDF |
+| S015 Liu et al. (2020) | RQ1 | Interviews with 21 recent travellers. Attractions were roughly planned before the trip and explored again on site, including places near a must-see. Social media was used to approve or reject a choice. Four roles: need generator, supporter, guider, approver | All tourists. The sample is mostly of Asian origin, and the authors say the Western subsample is too small for a cultural comparison. Not a walking study | Discovery can happen before arrival and again nearby. Reviews can change the plan on the day |
+| S016 Huertas and Orden-Mejía (2022) | RQ1, RQ3 | Online recall survey, N = 402. 371 people (92.2%) searched for attractions while at the destination, more than for transport or restaurants. Attraction searches were led by Google, then tourism websites and Google Maps. Social networks and apps were used less for attractions. Transport searches were led by Google Maps. Restaurant searches were led by TripAdvisor | Direct observation of an app. A representative city-tourist population. The sample came through university contacts and is self-reported | People look up what to visit after they have arrived, and they do not use one channel for every topic |
+| S017 Zhang et al. (2023) | RQ2 | Meta-analysis of 22 studies, 592 participants. Phone use while walking slowed gait and shortened steps. Texting and reading changed gait more than calling, talking, or dialling. Older adults did not show the same step-length and step-time effects as younger adults | Tourists specifically. A reason to ban phones. The authors say the task and the setting matter | A walking interface should avoid long reading. This is a safety finding, not a feature requirement |
+
+## Assertions that are still unsupported
+
+- That tourists cannot find landmarks today.
+- That one app should replace Google, review sites, and a planner.
+- That smart glasses are wanted, safe in crowds, or worth a subscription.
+- Any price, rating, download count, or Tripadvisor interface detail.
+- Any persona, quotation, emotion, or requirement priority.

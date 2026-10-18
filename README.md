@@ -19,7 +19,7 @@ This folder organises research, design, and evaluation. It is not a finished app
 | Prototype Lightning Review | 30% | Week commencing 16 November 2026 | In person, during your timetabled practical. The brief allows no late submission. |
 | Usability Testing Report | 50% | 18 December 2026, 3:00pm UK time | Moodle. 2,000 words. A +10% margin applies; work beyond that is not marked. |
 
-The brief states the Week 5 date and does not state a clock time. Confirm the Moodle cut-off before you upload.
+The brief states the Week 5 date and does not state a clock time. `PROMPT.md` records a later Moodle instruction, as you stated it: submit a PDF by 23 October 2026 at 3:00pm UK time. That Moodle page is not stored in this folder. Confirm it before you upload. The file you sign is still the official Word template. Export the PDF only after you have signed.
 
 Late written work is penalised: 5% if up to 24 hours late, 10% if between 24 hours and 5 working days late, and a fail with the work unmarked after 5 days. These penalties are set out in the assessment brief.
 

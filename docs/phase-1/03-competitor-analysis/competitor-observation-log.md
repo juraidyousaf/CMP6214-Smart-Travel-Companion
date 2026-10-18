@@ -2,7 +2,8 @@
 
 **Official heading:** Competitor Analysis  
 **Template instruction:** Briefly summarise your competitor analysis results.  
-**Status: INCOMPLETE. No sessions have been run.**
+**Status: INCOMPLETE for hands-on sessions. No sessions have been run.**  
+The documentary draft you approved is in `competitor-analysis-draft.md`. Source verification for that draft is still pending.
 
 Framework: `competitor-evaluation-framework.md`  
 Screenshots: `assets/screenshots/`  

@@ -1,6 +1,6 @@
 # Memory
 
-Living roadmap. Last updated: 18 October 2026, after the secondary-research pass. Git author settings were not changed. Nothing was committed.
+Living roadmap. Last updated: 18 October 2026, after the three Stage 1 drafts were approved for the working files. Git author settings were not changed. Nothing new was committed.
 
 ## Completed work
 
@@ -8,20 +8,21 @@ Living roadmap. Last updated: 18 October 2026, after the secondary-research pass
 - On your confirmation, switched the Week 5 method to secondary research. No lecturer email is stored.
 - Opened peer-reviewed papers and official help pages. Logged them as S004–S014. Wrote a working synthesis and a documentary competitor comparison for Google Maps, Wanderlog, and Tripadvisor.
 - Left personas, jobs, journeys, MoSCoW rows, and HTAs unwritten.
+- Saved your three Stage 1 drafts after you approved them: introduction, market research, and competitor analysis. Source verification is still pending.
 
 ## Current task
 
-Draft the introduction, market research, and competitor analysis yourself, using `docs/phase-1/01-concept/section-writing-guide.md`. Stage 1 is not complete until those drafts exist.
+Re-read every source cited in the three working drafts and set “Verified by student” to yes only for pages you have opened. Stage 2 has not started.
 
 ## Next task
 
-After you approve the three sections, Stage 2 is your personas, jobs-to-be-done, and journey maps. It has not started.
+After you confirm, Stage 2 is your three personas, three jobs-to-be-done, and three journey maps. You write them. One persona must include an impairment or disability and mobile accessibility. One journey must include the premium purchase. Do not start until you say so.
 
 ## Project status
 
 | Phase | Weight | Deadline | State |
 |---|---|---|---|
-| Week 5 checklist | 20% | 23 October 2026. `PROMPT.md` also states 3:00pm UK and PDF. Confirm on Moodle | Evidence and writing guides exist. Your assessed sections do not. Not submittable |
+| Week 5 checklist | 20% | 23 October 2026. `PROMPT.md` also states 3:00pm UK and PDF. Confirm on Moodle | Three written sections drafted and approved for the working files only. Source verification pending. Not in the Word template. Not submittable |
 | Prototype review | 30% | Week commencing 16 November 2026 | Not started |
 | Usability report | 50% | 18 December 2026, 3:00pm UK | Not started. Five real participants still required |
 
@@ -55,12 +56,12 @@ Not modified: the two official Word documents, Git config, SSH config.
 ## Research blockers
 
 - Prompt Milestone 1 is partially complete: sources are registered by Cursor and awaiting your verification.
-- You have not re-read the sources.
+- You have not re-read the sources. The three Stage 1 drafts are approved for the working files only, with verification still pending.
 - S014 full text is unopened.
-- Tripadvisor pages are unverified.
+- The Tripadvisor accessibility statement is still unverified. S018, the Trips help page, was opened.
 - No observation sessions or screenshots.
 - No personas, journeys, requirements, or HTA drawings.
-- RQ1, how tourists discover attractions, has no opened study.
+- RQ1 has opened studies, S015 and S016. You have not verified them.
 
 ## Upcoming deadlines
 
@@ -73,4 +74,4 @@ Not modified: the two official Word documents, Git config, SSH config.
 
 ## Pause
 
-Do not treat the synthesis as the submission. Assessed persona, journey, requirement, and HTA work starts after you have reviewed the evidence.
+Do not treat the three working drafts as the Moodle submission. Stage 2 starts only after you confirm. You still write the personas, journeys, requirements, and HTAs.

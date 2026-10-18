@@ -2,42 +2,22 @@
 
 **Official heading:** Market Research  
 **Template instruction:** Briefly summarise your initial market research results.  
-**Status: INCOMPLETE. No market summary yet.**
+**Status: DRAFTED AND APPROVED for this working document on 18 October 2026.**  
+**Source verification: PENDING.** You approved the wording subject to your own check of every cited source. “Verified by student” in `research/source-register.md` is still no. Do not paste this into the Word template until you have opened each cited page and can stand by the sentence.
 
-Read the synthesis before drafting. Usable themes are pedestrian attention and landmark memory (S004, S006), mixed outdoor AR evidence (S005), and accessibility of wayfinding (S007, S008). No market-size figure was collected. Do not add one from memory. The limitations to state are: no interviews, no tourist-discovery study opened, S014 abstract-only unless you open it, and no app sessions yet.
+This is your wording. It is not a completed Moodle submission.
 
-## Summary for the checklist (write last)
+## Approved draft
 
-[Four to eight sentences in your own words. Every factual sentence needs a source ID. End with the limit of this research, including the absence of interviews.]
+Research by Huertas and Orden-Mejía (2022) found that 371 out of 402 respondents (92.2%) reported searching for tourist attractions while at their destination, based on their recollection of their last trip. The study used a sample recruited through university contacts, so its findings should not be generalised to all tourists. Liu et al. (2020) also found that participants planned attractions before travelling and reviewed their attraction plans again after arriving, sometimes considering places near their main attractions. However, this study involved only 21 interviewees, most of whom were of Asian origin, which limits how broadly the findings can be applied.
 
-## Reading entries
+Huertas and Orden-Mejía (2022) found that Google was the most commonly reported channel for searching for tourist attractions, followed by tourism websites and Google Maps. Social networks and other apps were used less frequently for attraction searches. The study also reported that Google Maps was the leading channel for transport-related searches, while TripAdvisor was the most commonly reported option for restaurant searches. These findings were based on participants recalling their last trips rather than researchers directly observing their use of these services.
 
-Copy the block. Do not fill it from memory.
+The available research does not provide reliable figures for market size, revenue, app downloads, or subscription prices. In the study by Huertas and Orden-Mejía (2022), heritage cities represented 38.6% of the destinations, showing that the sample was not limited to heritage-city tourism. The study also relied on participants recalling their information searches rather than observing their behaviour while walking. Although the studies provide useful information about how travellers search for attractions, they do not establish that tourists struggle to find landmarks or that a single application should replace existing services. As no tourist interviews were conducted for this checklist, the findings will be used to inform initial design decisions rather than treated as confirmed needs of all city tourists.
 
-```text
-### Entry
+## Sources named in this draft
 
-Date:
-Source ID:
-Question IDs this entry speaks to (Q1–Q5):
-
-What the source says (paraphrase or short quotation):
-
-Location in the source (page, section, or review date):
-
-What I will not claim from it:
-
-Possible link to Smart Travel Companion (HYPOTHESIS):
-```
-
-## Entries
-
-_None yet._
-
-## Figures you might be tempted to include
-
-Leave this table empty until a source states the number.
-
-| Claim you want to make | Number or statement as printed | Source ID | Page or URL | Included in summary? |
-|---|---|---|---|---|
-| | | | | no |
+| In-text citation | ID | Student verified? |
+|---|---|---|
+| Huertas and Orden-Mejía (2022) | S016 | no |
+| Liu et al. (2020) | S015 | no |

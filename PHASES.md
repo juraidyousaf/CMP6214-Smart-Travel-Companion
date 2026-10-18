@@ -13,7 +13,7 @@ The earlier nine-milestone prompt is replaced by this plan. Research already log
 
 | Stage | Target | Status | Done when |
 |---|---|---|---|
-| 1. Research and written sections | 18–19 October 2026 | PARTIAL. Evidence and writing guides exist. Your three sections do not | You have drafted the introduction, market research, and competitor analysis, and each factual sentence has a source you re-read |
+| 1. Research and written sections | 18–19 October 2026 | DRAFTED. Three sections are approved for the working files. Source verification is still pending, so this stage is not closed | You have drafted the introduction, market research, and competitor analysis, and each factual sentence has a source you re-read |
 | 2. Personas, jobs, journey maps | 20–21 October 2026 | NOT STARTED | Three personas, three jobs, three maps, written by you. One accessibility persona. One premium journey |
 | 3. MoSCoW and HTA | 22 October 2026 | NOT STARTED | Your MoSCoW table and three HTA diagrams |
 | 4. References, appendices, DOCX, PDF | 23 October 2026 | NOT STARTED | Signed checklist exported to PDF and checked. Not uploaded until you say so |
@@ -22,9 +22,9 @@ The earlier nine-milestone prompt is replaced by this plan. Research already log
 
 | Task | Status |
 |---|---|
-| 1.1 Review S004–S018 and choose what you will cite | Waiting for you. Priority reading list is in `docs/phase-1/01-concept/section-writing-guide.md` |
-| 1.2 Documentary competitor comparison | PARTIAL. Google Maps S009–S010, Wanderlog S011–S013, Tripadvisor Trips help S018. Accessibility statement still unverified. No app sessions |
-| 1.3 Your three written sections | NOT STARTED. Guides are ready. Drafts are yours |
+| 1.1 Review S004–S018 and choose what you will cite | Pending. The drafts cite S001, S004, S005, S015, S016, S017, S009–S013, and S018. “Verified by student” is still no |
+| 1.2 Documentary competitor comparison | Drafted from help pages only. Google Maps S009–S010, Wanderlog S011–S013, Tripadvisor Trips help S018. Accessibility statement still unverified. No app sessions |
+| 1.3 Your three written sections | Drafted and approved for the working files on 18 October 2026. Not pasted into the Word template |
 
 Secondary research remains user-reported. No lecturer email is filed.
 

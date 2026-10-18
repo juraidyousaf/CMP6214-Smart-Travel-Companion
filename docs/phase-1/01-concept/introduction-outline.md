@@ -2,36 +2,27 @@
 
 **Official heading:** Introduction and Problem Statement  
 **Template instruction:** Briefly introduce your mobile app and include a problem statement.  
-**Status: INCOMPLETE.** Prompts only. The paragraphs below the line are for you.
+**Status: DRAFTED AND APPROVED for this working document on 18 October 2026.**  
+**Source verification: PENDING.** You approved the wording subject to your own check of every cited source. “Verified by student” in `research/source-register.md` is still no. Do not paste this into the Word template until you have opened each cited page and can stand by the sentence.
 
-Working evidence is in `research/secondary-research-synthesis.md`. A supportable problem statement can use pedestrian-navigation difficulties from S004, S006, and, if you open the PDF, S014. It cannot yet claim that tourists fail to discover landmarks. That is RQ1, and it is still open. Keep F1–F3 labelled as hypotheses.
+This is your wording. It is not a completed Moodle submission.
 
-## What the section needs to do
+## Approved draft
 
-- Name the app and the theme: Interaction on the Move.
-- Identify city tourists on foot as the audience under consideration.
-- State the problem you will design for.
-- Separate sentences you can cite from sentences that are still hypotheses (`PRD.md` H1–H4).
-- Stay short. The template says “briefly”. There is no separate word count for Week 5.
+Smart Travel Companion is a proposed mobile application for city tourists who explore landmarks and attractions on foot. The project follows the *Interaction on the Move* theme of the CMP6214 User Experience Design module (Theil, 2026). It will investigate how tourists interact with smartphone navigation while walking through unfamiliar cities. The project will also consider how tourists search for attractions and make changes to their sightseeing plans during their trips. Its main aim is to explore the use of smartphone navigation in walking environments through a user-centred design approach.
 
-## Evidence still required
+Lakehal et al. (2023) found that participants using AR glasses remembered landmarks and paths better than those using smartphones in a study involving 20 adults on one unfamiliar residential path using the researchers' prototype. Separately, Zhang et al. (2023) reported that smartphone use while walking was associated with slower walking speeds and shorter steps across multiple studies. In a survey by Huertas and Orden-Mejía (2022), most respondents reported searching for tourist attractions while at their destination, based on their recollections of a previous trip. Together, these findings provide a basis for investigating how city tourists interact with smartphone navigation while exploring unfamiliar places on foot.
 
-| Needed | Source IDs | Ready? |
+Smart Travel Companion will explore premium smart-glasses guidance as a possible way to provide navigation information without requiring tourists to regularly check their phones. However, Qiu, Mostafavi and Kalantari (2025) highlight that outdoor augmented-reality navigation still faces challenges involving hardware, localisation, and interface design. Therefore, the smart-glasses feature will be treated as a proposed design concept rather than a proven solution. The application will also consider inclusive design principles, while specific accessibility needs will be identified and investigated through secondary research before being incorporated into the design.
+
+The initial research for Smart Travel Companion uses secondary sources, including published academic studies and official product documentation. No interviews with tourists have been conducted for this checklist. The research will be used to investigate relevant user needs and inform the project's early design decisions.
+
+## Sources named in this draft
+
+| In-text citation | ID | Student verified? |
 |---|---|---|
-| At least one sourced point about the problem of finding or following sights on foot | | no |
-| A clear statement of what you have not studied yet, including interviews | | no |
-| Lecturer position on secondary research, if you rely on it | | no |
-
-## Draft (student writing)
-
-### Introduction
-
-[Write this after you can describe the concept in your own words. Do not present feature hypotheses as validated requirements.]
-
-### Problem statement
-
-[Write the problem you can support. Keep unsupported ideas in a short “still untested” sentence so the marker can see the difference.]
-
-### Scope of this checklist
-
-[State the two free-feature directions and the premium glasses direction as hypotheses, and state the coursework scenarios the brief requires.]
+| Theil (2026) | S001 | no |
+| Lakehal et al. (2023) | S004 | no |
+| Zhang et al. (2023) | S017 | no |
+| Huertas and Orden-Mejía (2022) | S016 | no |
+| Qiu, Mostafavi and Kalantari (2025) | S005 | no |
